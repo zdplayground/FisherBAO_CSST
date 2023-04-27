@@ -1,5 +1,0 @@
-This repository contains some study on the Fisher forecast of the angular diameter distance and Hubble parameter constrained by the BAO measurements from the China Space Station Telescope (CSST) galaxy clustering. 
-
-Specifically, we have forecasts for the BAO measurements from the spectroscopic redshift (spec-z) and photometric redshift (photo-z) surveys, respectively. Thanks to the same sky coverage and overlapped redshift range in the spec-z and photo-z surveys, we study the improvement on the constraints from cross-correlating the spec-z and photo-z samples. We denote the joint analysis of the spec-z and cross power spectra as spec-z+cross. In addition, with the addition of the photo-z power spectrum, we denote it as spec-z+cross+photo-z.   
-
-We have studied the influence on the BAO constraints from the spec-z systematic noise and the photo-z error, respectively.
